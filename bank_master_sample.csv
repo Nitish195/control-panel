@@ -1,0 +1,51 @@
+bank_name,ifsc_code,branch,branch_code,tpv
+Kotak Mahindra,KOTA6041570,Fort Branch,BR000,Yes
+HDFC Bank,HDFC8380944,Indiranagar,BR001,No
+SBI,SBI3432709,Andheri Branch,BR002,No
+SBI,SBI1221971,Connaught Place,BR003,No
+HDFC Bank,HDFC4740512,Indiranagar,BR004,Yes
+HDFC Bank,HDFC5566522,Indiranagar,BR005,No
+Kotak Mahindra,KOTA3949839,Andheri Branch,BR006,Yes
+Kotak Mahindra,KOTA1705086,Fort Branch,BR007,Yes
+HDFC Bank,HDFC6681025,Indiranagar,BR008,No
+HDFC Bank,HDFC2216995,MG Road,BR009,Yes
+SBI,SBI2104122,Connaught Place,BR010,Yes
+Kotak Mahindra,KOTA6915342,Andheri Branch,BR011,Yes
+SBI,SBI8612300,Indiranagar,BR012,Yes
+ICICI Bank,ICIC1162144,Connaught Place,BR013,Yes
+Axis Bank,AXIS8288236,Andheri Branch,BR014,No
+SBI,SBI4993040,Fort Branch,BR015,Yes
+Axis Bank,AXIS1804026,Connaught Place,BR016,Yes
+Kotak Mahindra,KOTA1582458,Fort Branch,BR017,No
+SBI,SBI4070586,Andheri Branch,BR018,Yes
+ICICI Bank,ICIC6355050,MG Road,BR019,Yes
+Axis Bank,AXIS2748897,Fort Branch,BR020,Yes
+SBI,SBI5790450,Connaught Place,BR021,Yes
+SBI,SBI2110865,Connaught Place,BR022,No
+SBI,SBI2773585,Indiranagar,BR023,No
+Axis Bank,AXIS8510024,Indiranagar,BR024,Yes
+HDFC Bank,HDFC4564331,Indiranagar,BR025,No
+ICICI Bank,ICIC2008753,Connaught Place,BR026,Yes
+ICICI Bank,ICIC7587137,Connaught Place,BR027,No
+ICICI Bank,ICIC2527395,Connaught Place,BR028,Yes
+Axis Bank,AXIS3046804,Indiranagar,BR029,Yes
+ICICI Bank,ICIC3471595,Andheri Branch,BR030,Yes
+HDFC Bank,HDFC6283891,Fort Branch,BR031,No
+SBI,SBI5691341,MG Road,BR032,No
+Kotak Mahindra,KOTA9887785,Fort Branch,BR033,No
+ICICI Bank,ICIC1318709,Connaught Place,BR034,Yes
+HDFC Bank,HDFC2487594,Fort Branch,BR035,Yes
+HDFC Bank,HDFC7850830,Indiranagar,BR036,Yes
+Axis Bank,AXIS4165943,Indiranagar,BR037,No
+ICICI Bank,ICIC4678722,MG Road,BR038,Yes
+Axis Bank,AXIS9182659,Indiranagar,BR039,No
+SBI,SBI8795308,MG Road,BR040,No
+Axis Bank,AXIS4101826,Indiranagar,BR041,No
+SBI,SBI3753083,Indiranagar,BR042,Yes
+Axis Bank,AXIS3393835,Fort Branch,BR043,No
+Kotak Mahindra,KOTA2630974,Connaught Place,BR044,Yes
+Axis Bank,AXIS7948573,MG Road,BR045,No
+Kotak Mahindra,KOTA5800234,Indiranagar,BR046,No
+Kotak Mahindra,KOTA9030980,MG Road,BR047,Yes
+HDFC Bank,HDFC9933729,MG Road,BR048,Yes
+HDFC Bank,HDFC8576708,Andheri Branch,BR049,No
